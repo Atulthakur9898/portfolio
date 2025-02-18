@@ -15,12 +15,12 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
    - 🔹 **Description:**
    - This repository serves as a showcase of my technical skills, projects, and contributions in the field of software development. I am passionate about coding, problem-solving, and building efficient solutions. My projects span across different domains, including web development, data structures, and algorithmic programming.
    
-   - 📂 **Repository:** [GitHub Link]
+   - 📂 **Repository:** [[GitHub Link](https://github.com/Atulthakur9898/portfolio)]
 
 ### 2. [Portfolio]
 
    - 🔗 **Live Demo:** [URL if applicable]
-   - 📂 **Repository:** [GitHub Link]
+   - 📂 **Repository:** [GitHub Link] (https://github.com/Atulthakur9898/portfolio)
 
 ## 🚀 Skills & Technologies
 
